@@ -10,6 +10,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShyamSundhar1411&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ShyamSundhar1411)](https://github.com/ryo-ma/github-profile-trophy)
+
+![](https://komarev.com/ghpvc/?username=ShyamSundhar1411)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
@@ -19,5 +21,3 @@
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/shyam1411) 
   
-## Snake eating my contribution graph
-![snake gif](https://github.com/ShyamSundhar1411/ShyamSundhar1411/blob/output/github-contribution-grid-snake.gif)
