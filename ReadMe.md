@@ -7,8 +7,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ShyamSundhar1411&show_icons=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ShyamSundhar1411&theme=default&hide_border=false)<br/>
-[![GitHub Streak](https://streak-stats.demolab.com?user=ShyamSundhar1411)](https://git.io/streak-stats)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=ShyamSundhar1411)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![](https://komarev.com/ghpvc/?username=ShyamSundhar1411)
