@@ -7,7 +7,7 @@ systems — and publish ML research on the side.
 - 🦀 My CLI tools have **10,000+ downloads** on crates.io
 - 📄 **4 peer-reviewed publications** — IEEE Access, Frontiers in Plant Science, Environmental Science Europe
 - 🌐 [shyamsundhar.com](https://shyamsundhar.com)
-```
+
 ## 🌐 Socials:
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?logo=vercel&logoColor=white)](https://shyamsundhar.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shyamsundhar2435)
