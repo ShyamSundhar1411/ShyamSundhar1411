@@ -1,9 +1,9 @@
 ## 👋 Hey, I'm Shyam
 
-Backend & distributed systems engineer. I build developer tools, production pipelines, and AI
-systems — and publish ML research on the side.
+Backend & distributed systems engineer. I build developer tools, production pipelines, and AI systems — and publish ML research on the side.
 
 - 🎓 MS Computer Science @ **University of Sydney**
+- 🛠️ Founding Engineer @ **Voxket.ai** — production retrieval & voice-agent orchestration
 - 🦀 My CLI tools have **10,000+ downloads** on crates.io
 - 📄 **4 peer-reviewed publications** — IEEE Access, Frontiers in Plant Science, Environmental Science Europe
 - 🌐 [shyamsundhar.com](https://shyamsundhar.com)
@@ -11,12 +11,29 @@ systems — and publish ML research on the side.
 ## 🌐 Socials:
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?logo=vercel&logoColor=white)](https://shyamsundhar.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shyamsundhar2435)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39.svg?logo=orcid&logoColor=white)](https://orcid.org/0009-0003-8930-1204)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4.svg?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=YOUR-ID)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39.svg?logo=orcid&logoColor=white)](https://orcid.org/YOUR-ORCID-ID)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4.svg?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=YOUR-SCHOLAR-ID)
 [![X](https://img.shields.io/badge/X-000000.svg?logo=x&logoColor=white)](https://x.com/Its_me_Shyam14)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lost_guy77777)
 [![Email](https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white)](mailto:shyamsundhar2435@gmail.com)
 
+---
+
+# 🚀 What I've Built
+
+**[git-automater](https://github.com/ShyamSundhar1411/git-automater)** · `Rust`
+Interactive Git CLI — guided Conventional Commits, license & `.gitignore` generation, branch and remote managers. **10,000+ downloads on crates.io.**
+
+**[structura-py](https://github.com/ShyamSundhar1411/structura-py)** · `Python` **· [structura-go](https://github.com/ShyamSundhar1411/structura-go)** · `Go`
+Scaffold production-ready backends in one command — 4 architecture patterns (MVC, MVC-API, MVCS, Hexagonal), 6 frameworks (Flask, FastAPI, Gin, Echo, Fiber, Chi).
+
+**[KeyHive](https://github.com/ShyamSundhar1411/Key-Hive-Kotlin)** · `Kotlin`
+Cloud-free Android password manager — encrypted local Room vault, biometric unlock, real `AutofillService` implementation. Jetpack Compose + Hilt.
+
+**[My-ML-Notebooks](https://github.com/ShyamSundhar1411/My-ML-Notebooks)** · `Jupyter`
+Paper replications from scratch — Transformer, Vision Transformer — plus vision, NLP and time-series projects.
+
+---
 
 # 💻 Tech Stack:
 
@@ -64,18 +81,12 @@ systems — and publish ML research on the side.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![Git](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ShyamSundhar1411&show_icons=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ShyamSundhar1411&theme=default&hide_border=false)<br/>
-[![trophy](https://github-profile-trophy.vercel.app/?username=ShyamSundhar1411)](https://github.com/ryo-ma/github-profile-trophy)
-
-![](https://komarev.com/ghpvc/?username=ShyamSundhar1411)
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
 ---
-[![](https://visitcount.itsvg.in/api?id=ShyamSundhar1411&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/shyam1411) 
-  
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=ShyamSundhar1411&show_icons=true)<br/>
+![](https://streak-stats.demolab.com/?user=ShyamSundhar1411&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShyamSundhar1411&layout=compact&langs_count=8&hide=jupyter%20notebook)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ShyamSundhar1411)](https://github.com/ryo-ma/github-profile-trophy)
