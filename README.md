@@ -11,8 +11,8 @@ Backend & distributed systems engineer. I build developer tools, production pipe
 ## 🌐 Socials:
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?logo=vercel&logoColor=white)](https://shyamsundhar.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shyamsundhar2435)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39.svg?logo=orcid&logoColor=white)](https://orcid.org/YOUR-ORCID-ID)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4.svg?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=YOUR-SCHOLAR-ID)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39.svg?logo=orcid&logoColor=white)](https://orcid.org/0009-0003-8930-1204)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4.svg?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=-HEo6dIAAAAJ&hl=en)
 [![X](https://img.shields.io/badge/X-000000.svg?logo=x&logoColor=white)](https://x.com/Its_me_Shyam14)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lost_guy77777)
 [![Email](https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white)](mailto:shyamsundhar2435@gmail.com)
